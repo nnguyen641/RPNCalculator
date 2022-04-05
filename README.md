@@ -2,7 +2,7 @@
 # Identifying Information:
 1. Name: Nathan Nguyen
 2. Email: nnguyen1@chapman.edu
-3. Github User: 
+3. Github User: nnguyen641
 
 
 # Application's Purpose
